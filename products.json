@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "EMOVE Cruiser",
+    "descripcion": "Patinete eléctrico de larga duración con batería potente.",
+    "precio": 1399,
+    "imagen": "https://www.voromotors.com/cdn/shop/products/EMOVE-Cruiser-V2-Orange-Electric-Scooter-1200x1200.jpg"
+  },
+  {
+    "nombre": "Ewheel City Rider",
+    "descripcion": "Ligero y práctico para trayectos urbanos.",
+    "precio": 899,
+    "imagen": "https://example.com/ewheel-city-rider.jpg"
+  },
+  {
+    "nombre": "SkuterZone X10",
+    "descripcion": "Velocidad y estabilidad con estilo moderno.",
+    "precio": 1190,
+    "imagen": "https://example.com/skuterzone-x10.jpg"
+  }
+]
